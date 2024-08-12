@@ -14,5 +14,5 @@ object CommonDivisorNum {
       println("==============")
     }
   }
-  //Feature_2
+  //Feature_1
 }
